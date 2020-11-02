@@ -3,7 +3,7 @@ FRONT-END WEB DEVELOPER / FULL-STACK INTERLOPER
 
 I'm a 20+ year I/T veteran who took the steps to software design and then development. My focus is on web applications. 
 
-My start as a developer comes from Lambda School, a coding bootcamp. My work experience comes from helping to build a clinical EMR for nursing homes, including research, planning, writing specifications, designing the front-end and testing. I work with clinicians and administrative staff to ensure that software meets their needs, state and federal requirements, and with vendors to ensure software interoperability.
+My start as a developer comes from Lambda School, a coding bootcamp. My work experience comes from helping to build a clinical EMR for nursing homes, including research, planning, writing specifications, designing the front-end and testing. I work with clinicians and administrative staff to ensure that software meets their needs and is compliant with federaland state regulations. I also work with vendors to ensure interoperability between our software.
 
 Core technologies that I use include JavaScript, React, SQL, Node and Python. HTML and CSS feature in my work as JSX and Styled Components.
 
