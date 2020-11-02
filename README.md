@@ -1,25 +1,30 @@
 # VISH SINGH
 FRONT-END WEB DEVELOPER / FULL-STACK INTERLOPER
 
-I'm a 20+ year I/T veteran who took the steps to software design and then to development, with a focus on web applications. Much of my experience comes from helping to build a clinical EMR for nursing homes, including research, planning, writing specifications, designing the front-end and testing. I work with end users across clinical disciplines and administration to ensure that software meets their needs - and all state and federal requirements - and with other companies to ensure interoperability between our software.
+I'm a 20+ year I/T veteran who took the steps to software design and then development. My focus is on web applications. 
+
+My start as a developer comes from Lambda School, a coding bootcamp. My work experience comes from helping to build a clinical EMR for nursing homes, including research, planning, writing specifications, designing the front-end and testing. I work with clinicians and administrative staff to ensure that software meets their needs, state and federal requirements, and with vendors to ensure software interoperability.
 
 Core technologies that I use include JavaScript, React, SQL, Node and Python. HTML and CSS feature in my work as JSX and Styled Components.
 
-<a href="https://www.linkedin.com/in/vish213/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/linkedin.svg" />
-</a>
+<div style="color:blue;">
+  <a href="https://www.linkedin.com/in/vish213/">
+    <img align="left" alt="LinkedIn" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/linkedin.svg" />
+  </a>
 
-<a href="https://twitter.com/vishalicious213">
-  <img align="left" alt="Twitter" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/twitter.svg" />
-</a>
+  <a href="https://twitter.com/vishalicious213">
+    <img align="left" alt="Twitter" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/twitter.svg" />
+  </a>
 
-<a href="https://neophyte.home.blog/">
-  <img align="left" alt="WordPress" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/wordpress.svg" />
-</a>
+  <a href="https://neophyte.home.blog/">
+    <img align="left" alt="WordPress" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/wordpress.svg" />
+  </a>
 
-<a href="mailto:vishalicious213@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/gmail.svg" />
-</a>
+  <a href="mailto:vishalicious213@gmail.com">
+    <img align="left" alt="Gmail" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/gmail.svg" />
+  </a>
+</div>
+
 
 <!--
 **vishalicious213/vishalicious213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
