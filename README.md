@@ -2,16 +2,16 @@
 FRONT-END WEB DEVELOPER / FULL-STACK INTERLOPER
 
 <a href="https://www.linkedin.com/in/vish213/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/linkedin.svg" />
 </a>
 <a href="https://twitter.com/vishalicious213">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/twitter.svg" />
 </a>
 <a href="https://neophyte.home.blog/">
-  <img align="left" alt="WordPress" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="WordPress" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/wordpress.svg" />
 </a>
 <a href="mailto:vishalicious213@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Gmail" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/gmail.svg" />
 </a>
 <br />
 
