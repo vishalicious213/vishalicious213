@@ -3,19 +3,19 @@ FRONT-END WEB DEVELOPER / FULL-STACK INTERLOPER
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/vish213/">
-    <img alt="LinkedIn" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/linkedin.svg">
+    <img title="LinkedIn" alt="LinkedIn" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/linkedin.svg">
   </a>&nbsp;&nbsp;
 
   <a href="https://twitter.com/vishalicious213">
-    <img alt="Twitter" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/twitter.svg">
+    <img title="Twitter" alt="Twitter" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/twitter.svg">
   </a>&nbsp;&nbsp;
 
   <a href="https://neophyte.home.blog/">
-    <img alt="WordPress" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/wordpress.svg">
+    <img title="WordPress" alt="WordPress" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/wordpress.svg">
   </a>&nbsp;&nbsp;
 
   <a href="mailto:vishalicious213@gmail.com">
-    <img alt="Gmail" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/gmail.svg">
+    <img title="Gmail" alt="Gmail" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/gmail.svg">
   </a>
 </p>
 
