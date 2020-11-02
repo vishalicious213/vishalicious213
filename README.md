@@ -4,17 +4,20 @@ FRONT-END WEB DEVELOPER / FULL-STACK INTERLOPER
 <a href="https://www.linkedin.com/in/vish213/">
   <img align="left" alt="LinkedIn" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/linkedin.svg" />
 </a>
+
 <a href="https://twitter.com/vishalicious213">
   <img align="left" alt="Twitter" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/twitter.svg" />
 </a>
+
 <a href="https://neophyte.home.blog/">
   <img align="left" alt="WordPress" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/wordpress.svg" />
 </a>
+
 <a href="mailto:vishalicious213@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/gmail.svg" />
 </a>
 
-#### BACKGROUND
+<hr>
 
 I'm a 20+ year I/T veteran who took the step from software design to development, with a focus on web applications. Much of my experience comes from helping to build a clinical EMR for nursing homes, including research, planning, writing specifications, designing the front-end and testing. I work with end users across clinical disciplines and administration to ensure that software meets their needs - and all state and federal requirements.
 
