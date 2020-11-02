@@ -14,7 +14,7 @@ FRONT-END WEB DEVELOPER / FULL-STACK INTERLOPER
   <img align="left" alt="Gmail" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/gmail.svg" />
 </a>
 
-___
+#### BACKGROUND
 
 I'm a 20+ year I/T veteran who took the step from software design to development, with a focus on web applications. Much of my experience comes from helping to build a clinical EMR for nursing homes, including research, planning, writing specifications, designing the front-end and testing. I work with end users across clinical disciplines and administration to ensure that software meets their needs - and all state and federal requirements.
 
