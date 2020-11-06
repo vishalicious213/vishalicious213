@@ -16,7 +16,7 @@ FRONT-END WEB DEVELOPER / FULL-STACK INTERLOPER
 
   <a href="mailto:vishalicious213@gmail.com">
     <img title="Gmail" alt="Gmail" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/gmail.svg">
-  </a>
+  </a>&nbsp;&nbsp;
   
   <a href="https://vish213-portfolio-v3.netlify.app/">
     <img title="Portfolio" alt="Portfolio" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/visualstudiocode.svg">
