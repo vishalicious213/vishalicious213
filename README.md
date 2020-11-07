@@ -29,7 +29,7 @@ My start as a developer comes from Lambda School, a coding bootcamp. My work exp
 
 Core technologies that I use include JavaScript, React, SQL, Node and Python. HTML and CSS feature in my work as JSX and Styled Components.
 
-<p align-'center>
+<p align='center'>
   <img title="JavaScript" alt="JavaScript" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/tech/javascript.svg">&nbsp;&nbsp;
   <img title="React" alt="React" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/tech/react.svg">&nbsp;&nbsp;
   <img title="Node" alt="Node" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/tech/node-dot-js.svg">&nbsp;&nbsp;
