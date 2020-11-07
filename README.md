@@ -30,12 +30,12 @@ My start as a developer comes from Lambda School, a coding bootcamp. My work exp
 Core technologies that I use include JavaScript, React, SQL, Node and Python. HTML and CSS feature in my work as JSX and Styled Components.
 
 <p align-'center>
-  <img title="JavaScript" alt="JavaScript" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/javascript.svg">&nbsp;&nbsp;
-  <img title="React" alt="React" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/react.svg">&nbsp;&nbsp;
-  <img title="Node" alt="Node" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/node-dot-js.svg">&nbsp;&nbsp;
-  <img title="SQL" alt="SQL" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/sqlite.svg">&nbsp;&nbsp;
-  <img title="HTML5" alt="HTML5" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/html5.svg">&nbsp;&nbsp;
-  <img title="CSS3" alt="CSS3" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/css3.svg">&nbsp;&nbsp;
+  <img title="JavaScript" alt="JavaScript" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/tech/javascript.svg">&nbsp;&nbsp;
+  <img title="React" alt="React" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/tech/react.svg">&nbsp;&nbsp;
+  <img title="Node" alt="Node" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/tech/node-dot-js.svg">&nbsp;&nbsp;
+  <img title="SQL" alt="SQL" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/tech/sqlite.svg">&nbsp;&nbsp;
+  <img title="HTML5" alt="HTML5" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/tech/html5.svg">&nbsp;&nbsp;
+  <img title="CSS3" alt="CSS3" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/tech/css3.svg">
 </p>
   
 <!--
