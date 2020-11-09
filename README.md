@@ -39,7 +39,7 @@ My start as a developer comes from Lambda School, a coding bootcamp. My work exp
 Core technologies that I use include JavaScript, React, SQL, Node and Python. HTML and CSS feature in my work as JSX and Styled Components.
 
 ---
-<div style="display: flex;">
+<div style="display: flex; justify-contents: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalicious213&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
   <img src="https://github-readme-stats.vercel.app/api?username=vishalicious213&show_icons=true&line_height=27&count_private=true&title_color=fffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sarah's GitHub Stats" />
