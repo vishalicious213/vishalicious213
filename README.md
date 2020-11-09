@@ -38,9 +38,9 @@ Core technologies that I use include JavaScript, React, SQL, Node and Python. HT
   <img title="CSS3" alt="CSS3" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/tech/css3.svg">
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalicious213&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalicious213&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalicious213&show_icons=true&line_height=27&count_private=true&title_color=fffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sarah's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=vishalicious213&show_icons=true&line_height=27&count_private=true&title_color=fffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sarah's GitHub Stats" />
 
 <!--
 **vishalicious213/vishalicious213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
