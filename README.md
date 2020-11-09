@@ -27,8 +27,6 @@ I'm a 20+ year I/T veteran who took the steps to software design and then develo
 
 My start as a developer comes from Lambda School, a coding bootcamp. My work experience comes from helping to build a clinical EMR for nursing homes, including research, planning, writing specifications, designing the front-end and testing. I work with clinicians and administrative staff to ensure that software meets their needs and is compliant with federal and state regulations. I also work with vendors to ensure interoperability between our software.
 
-Core technologies that I use include JavaScript, React, SQL, Node and Python. HTML and CSS feature in my work as JSX and Styled Components.
-
 <p align='center'>
   <img title="JavaScript" alt="JavaScript" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/tech/javascript.svg">&nbsp;&nbsp;
   <img title="React" alt="React" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/tech/react.svg">&nbsp;&nbsp;
@@ -38,6 +36,8 @@ Core technologies that I use include JavaScript, React, SQL, Node and Python. HT
   <img title="CSS3" alt="CSS3" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/tech/css3.svg">
 </p>
 
+Core technologies that I use include JavaScript, React, SQL, Node and Python. HTML and CSS feature in my work as JSX and Styled Components.
+---
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalicious213&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=vishalicious213&show_icons=true&line_height=27&count_private=true&title_color=fffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sarah's GitHub Stats" />
