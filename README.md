@@ -40,7 +40,7 @@ Core technologies that I use include JavaScript, React, SQL, Node and Python. HT
 
 ---
 <div style="display: flex;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalicious213&hide=java,html&title_color=ffffff&text_color=dcdcdc&icon_color=2bbc8a&bg_color=14213d" alt="Vish's Most Used Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalicious213&hide=java,html&title_color=2e7fec&text_color=dcdcdc&icon_color=2bbc8a&bg_color=14213d" alt="Vish's Most Used Languages" />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalicious213&show_icons=true&line_height=27&count_private=true&title_color=fffff&text_color=dcdcdc&icon_color=1E90FF&bg_color=14213d" alt="Vish's GitHub Stats" />
 </div>
