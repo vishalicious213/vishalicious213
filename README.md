@@ -3,7 +3,7 @@ FRONT-END WEB DEVELOPER / FULL-STACK INTERLOPER
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/vish213/">
-    <img style="fill: red;" title="LinkedIn" alt="LinkedIn" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/linkedin.svg">
+    <img style="color: red;" title="LinkedIn" alt="LinkedIn" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/social/linkedin.svg">
   </a>&nbsp;&nbsp;
 
   <a href="https://twitter.com/vishalicious213">
