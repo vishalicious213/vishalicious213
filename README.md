@@ -32,6 +32,7 @@ My start as a developer comes from Lambda School, a coding bootcamp. My work exp
   <img title="React" alt="React" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/tech/react.svg">&nbsp;&nbsp;
   <img title="Node" alt="Node" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/tech/node-dot-js.svg">&nbsp;&nbsp;
   <img title="SQL" alt="SQL" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/tech/sqlite.svg">&nbsp;&nbsp;
+  <img title="Python" alt="Python" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/tech/python.svg">&nbsp;&nbsp;
   <img title="HTML5" alt="HTML5" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/tech/html5.svg">&nbsp;&nbsp;
   <img title="CSS3" alt="CSS3" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/tech/css3.svg">
 </p>
