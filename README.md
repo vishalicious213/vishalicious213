@@ -37,7 +37,7 @@ My start as a developer comes from Lambda School, a coding bootcamp. My work exp
   <img title="CSS3" alt="CSS3" width="22px" src="https://github.com/vishalicious213/one-off-resources/blob/master/img/tech/css3.svg">
 </p>
 
-Core technologies that I use include JavaScript, React, SQL, Node and Python. HTML and CSS feature in my work as JSX and Styled Components.
+Core technologies that I use include JavaScript, React and Next.JS. These are augmented by backend technologies like Node, Express, Python and SQL. HTML and CSS feature in my work as JSX and Styled Components.
 
 ---
 <div style="display: flex;">
