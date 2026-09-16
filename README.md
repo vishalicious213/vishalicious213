@@ -2,11 +2,11 @@
   <img src="assets/banner.png" alt="Vish Singh, software engineer" width="100%">
 </p>
 
-<h1 align="center">Vish Singh</h1>
+<!-- <h1 align="center">Vish Singh</h1> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/software%20engineer%20%C2%B7%20integrations%20%C2%B7%20healthcare-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" alt="">
-</p>
+</p> -->
 
 <p align="center">
   I build web &amp; healthcare applications that save business time, reduce operational costs and improve user experience across small business, nonprofit and clinical settings.
